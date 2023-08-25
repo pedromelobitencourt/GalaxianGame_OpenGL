@@ -32,25 +32,4 @@ OpenGLGame stands as a remarkable 2D gaming venture realized using the OpenGL li
 
 3. Run the executable: `./openglgame`
 
-## Controls
 
-- Move Left: A or Left Arrow Key
-- Move Right: D or Right Arrow Key
-- Jump: W or Spacebar
-
-## Contributing
-
-Contributions are embraced! Should you encounter bugs or harbor ideas for improvement, kindly submit a pull request.
-
-## License
-
-This project operates under the MIT License - refer to the [LICENSE](LICENSE) file for explicit details.
-
-## Acknowledgments
-
-- Gratitude to the OpenGL community for furnishing a robust graphics library.
-- A nod to [Author Name] for the [link to any assets or resources used].
-
----
-
-Feel at liberty to tweak and expand the content as necessitated, ensuring a faithful representation of your GitHub project.
